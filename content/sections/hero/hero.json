@@ -1,20 +1,20 @@
 {
-  "intro": "Hej",
+  "intro": "Siddhesh Sawant",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/gojo_sat.jpg",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Computer Engineer",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "4th Year, ",
+    "highlight": "Simon Fraser University",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "This is my protfolio where you can see all my projects and achievements.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false

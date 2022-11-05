@@ -9,11 +9,11 @@
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "behance": "",
+      "github": "https://github.com/ssawant0202",
+      "medium": "",
+      "linkedin": "https://www.linkedin.com/in/ssawant0202/",
+      "mail": "mailto:ssawant@sfu.ca"
     }
   },
   "siteConfiguration": {
@@ -21,18 +21,17 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
+        "label": "Resume & Transcript",
         "url": "/resume.pdf"
-      },
+      }
+      ,
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        {"label": "", "url": "" },
+        { "label": "", "url": "" }
       ]
     },
     "featureToggles": {
