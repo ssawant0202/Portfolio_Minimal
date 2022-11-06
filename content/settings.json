@@ -31,7 +31,7 @@
       ,
       "footer": [
         {"label": "", "url": "" },
-        { "label": "", "url": "" }
+        {  "label": "", "url": ""}
       ]
     },
     "featureToggles": {

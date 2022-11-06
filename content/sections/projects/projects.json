@@ -3,11 +3,11 @@
     {
       "visible": true,
       "category": "🕹️ Artificial Intelligence ",
-      "title": "Title Proj 1",
-      "description": "Proj Des",
-      "tags": ["Tag 1", "Tag 2"],
+      "title": "Multi Agent Path Finding",
+      "description": "  Implemented Safe Interval Path Planning (SIPP), a faster algorithm than A* in dynamic path planning Studied multiple research papers and developed an algorithm byimplementing dynamic, safe intervals, which eliminated recalculatingpaths on every timestep, reducing the generated state spaceSuccessfully calculated optimal paths and the program ran 30%-40% faster than A* in general cases",
+      "tags": ["", ""],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/sipp.jpeg",
         "alt": "Quick Setup",
         "linkTo": "https://github.com/ssawant0202/CMPT-417-Safe-Interval-Path-Planning"
       },
@@ -17,19 +17,19 @@
           "url": "https://github.com/ssawant0202/CMPT-417-Safe-Interval-Path-Planning"
         },
         {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "type": "",
+          "url": ""
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 Embedded systems",
-      "title": "Title proj 2",
-      "description": "des proj 2",
-      "tags": ["tag 1", "Tag 2"],
+      "category": "🤖 Artificial Intelligence",
+      "title": "Affective Computing",
+      "description": "Generated artificial facial expressions based on gender, race and environment. Led a group of 3 to train the AI model producing appropriate Action Units (AUs). Collected wild and premade datasets from the web and trained the AI using Gaussian Mixture Model to separate the AU clusters. Verified the accuracy using K fold cross-validation. Generated 100 sensible facial expressions and classified them based on Plutchik’s Wheel of Emotions",
+      "tags": ["", ""],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/makehuman.jpg",
         "alt": "Extendable Layout"
       },
       "links": [
@@ -38,10 +38,27 @@
           "url": "https://github.com/ssawant0202/CMPT-417-Safe-Interval-Path-Planning"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "🔧 Embedded Systems",
+      "title": "FTP Y-Modem Protocol",
+      "description": "Debugged and corrected the functionality of a multi-threaded socket-pair application.The thread had different real time priorities. Sender data was passed through a medium thread which corrupted, dropped and injected random characters upon receiving. Developed state chart and thread table to understand the program's flow. Implemented a CRC16 checker so receiver can request same block of 128 bytes if CRC's didn't match. Added dump glitches function to dump glitched characters(noise) stored in socket pair before the last byte was sent. Successfully verified the functionality of the terminal program by sending 100 files and received an A for the course",
+      "tags": ["", ""],
+      "image": {
+        "src": "../../images/multithreaded.jpg",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/ssawant0202/ENSC-351-Multi-Threaded-App-"
+        }
+      ]
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/ssawant0202/"
   }
