@@ -3,6 +3,10 @@ imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-Project description.
+My current motto is Absorb like a sponge. 
 
-Project Photo <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u></u></a> 
+Currently studying computer engineering I was always curious to know how things work and after multiple years of engineering, I have a basic understanding of the most fundamental technology. I have realized how much more there is to learn and grow, the possibilities are endless. I'm a competitive person curious to learn more about new technologies.
+Currently learning about Full Stack applications. Some of my interesting projects were in Artificial Intelligence, Embedded Systems, Computer Organization, FPGAs, ARM assembly language, RISC-V and Android Development
+I like to play table tennis in my leisure time and love sketching.  
+
+ <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u></u></a> 
