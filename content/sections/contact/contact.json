@@ -1,9 +1,9 @@
 {
-  "name": "Email, Phone",
-  "email": "ssawant@sfu.ca, (+1)-236-867-1693",
+  "name": "📧Email: ssawant@sfu.ca ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 📞Phone: +1 (236) 867-1693 ",
+  "email": "",
   "description": "",
   "image": {
-    "src": "../../images/favicon.png",
+    "src": "../../images/ss.jpg",
     "alt": "Gatsby Logo"
   },
   "socialProfiles": {

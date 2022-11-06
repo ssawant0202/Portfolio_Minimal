@@ -8,13 +8,13 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "Computer Engineer",
+  "title": "Software Engineer",
   "subtitle": {
     "prefix": "4th Year, ",
-    "suffix": "Simon Fraser University."
+    "suffix": "Simon Fraser University"
     
   },
-  "description": "This is my protfolio I am currently upadating mysite, it will be ready in a couple of days! .",
+  "description": "Welcome! Here you can find all my interesting projects and a little about myself.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false
