@@ -25,7 +25,7 @@
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume & Transcript",
+        "label": "Resume",
         "url": "/resume.pdf"
       }
       ,
