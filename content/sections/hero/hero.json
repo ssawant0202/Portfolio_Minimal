@@ -1,22 +1,22 @@
 {
   "intro": "Siddhesh Sawant",
   "heroPhoto": {
-    "src": "../../images/sid.jpg",
+    "src": "../../images/dp.jpg",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "Software Engineer",
+  "title": "Adaptive Developer",
   "subtitle": {
-    "prefix": "4th Year, ",
+    "prefix": "Recent Graduate 2024 | ",
     "suffix": "Simon Fraser University"
     
   },
-  "description": "Welcome! Here you can find all my interesting projects and a little about myself.",
+  "description": "",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "showIcons": true
   }
 }
