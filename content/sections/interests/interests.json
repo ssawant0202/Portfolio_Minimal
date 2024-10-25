@@ -1,6 +1,160 @@
 {
   "interests": [
     {
+      "label": "JavaScript (ES6+)",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React.js",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Node.js",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Express.js",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "PostgreSQL",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "RESTful API Development",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "HTML/CSS",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "UI/UX Design",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Backend Development",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Frontend Development",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "SQL",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Authentication & Authorization",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Security Best Practices",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Python Automation",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Raspberry Pi Programming",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "IoT Development",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "GPIO Programming",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "CoreXY Mechanism",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Electromagnet Control",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "C Programming",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Lichess API Integration",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Next.js",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
       "label": "C/C++",
       "image": {
         "src": "",
@@ -50,28 +204,7 @@
       }
     },
     {
-      "label": "Node.js",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "React",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "HTML",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "JavaScript",
+      "label": "Solid Works",
       "image": {
         "src": "",
         "alt": ""
@@ -81,6 +214,6 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 5
+    "initiallyShownInterests": 11
   }
 }
