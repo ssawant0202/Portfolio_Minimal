@@ -2,6 +2,28 @@
   "projects": [
     {
       "visible": true,
+      "category": "⚛ Full Stack ",
+      "title": "Issue Tracker using NextJS",
+      "description": "My Issue Tracker application is a full-stack solution developed with Next.js, TypeScript, Google Authentication, OAuth, and Radix UI. It’s designed to streamline issue tracking by enabling users to categorize, assign, and monitor progress efficiently. The frontend ensures a responsive UI, while TypeScript enforces type safety across the application. The integration of Google Authentication and OAuth ensures secure user access, and Radix UI components maintain a seamless user experience. This project reflects my commitment to creating structured, scalable, and user-centric solutions.",
+      "tags": ["Next JS", "React"],
+      "image": {
+        "src": "../../images/barChart.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/ssawant0202/Issue-Tracker"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/ssawant0202/Issue-Tracker"
+        },
+        {
+          "type": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "🕹️ Artificial Intelligence ",
       "title": "Multi Agent Path Finding",
       "description": "  Implemented Safe Interval Path Planning (SIPP), a faster algorithm than A* in dynamic path planning Studied multiple research papers and developed an algorithm byimplementing dynamic, safe intervals, which eliminated recalculatingpaths on every timestep, reducing the generated state spaceSuccessfully calculated optimal paths and the program ran 30%-40% faster than A* in general cases",
@@ -81,3 +103,5 @@
     "url": "https://github.com/ssawant0202/"
   }
 }
+
+
