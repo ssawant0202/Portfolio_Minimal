@@ -4,7 +4,7 @@
     "siteUrl": "",
     "title": "Portfolio",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "Welcome to my portfolio! Here, you’ll find highlights of my journey through impactful projects—from full-stack apps to an IoT chessboard capstone. With skills in Next.js, TypeScript, and automated testing, I bring a hands-on approach to problem-solving, innovation, and creating user-focused solutions.",
+    "description": "Explore my portfolio for projects showcasing my skills in full-stack development, automated testing, and innovative problem-solving—alongside my journey in IoT and impactful solutions.",
     "author": "Sidd",
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",

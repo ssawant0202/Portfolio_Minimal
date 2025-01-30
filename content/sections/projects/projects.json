@@ -27,11 +27,11 @@
       "category": "⚛ Full Stack ",
       "title": "Issue Tracker using NextJS",
       "description": "My Issue Tracker application is a full-stack solution developed with Next.js, TypeScript, Google Authentication, OAuth, and Radix UI. It’s designed to streamline issue tracking by enabling users to categorize, assign, and monitor progress efficiently. The frontend ensures a responsive UI, while TypeScript enforces type safety across the application. The integration of Google Authentication and OAuth ensures secure user access, and Radix UI components maintain a seamless user experience. This project reflects my commitment to creating structured, scalable, and user-centric solutions.",
-      "tags": ["Next JS", "React"],
+      "tags": ["Next JS", "React", "Click the picture to view the live site"],
       "image": {
         "src": "../../images/barChart.jpg",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/ssawant0202/Issue-Tracker"
+        "linkTo": "https://issue-tracker-kappa-nine.vercel.app/"
       },
       "links": [
         {
