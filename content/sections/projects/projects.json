@@ -104,7 +104,7 @@
       "visible": true,
       "category": "🖥️ Computer Organization",
       "title": "FIQ & EIC Interrupts",
-      "description": "Assigned task was to strobe LED's on a STR730 micro controller using fast interrupts while the processor was busy calculating large Fib number. Read reference manual to initialize timer circuit within micro controller to periodically generate FIQ using Pulse Width Modulation. Adjusted pre-scale division and synced the fast interrupts to smoothly strobe LED's receiving a 90% on the project",
+      "description": "Assigned task was to strobe LED's on a STR730 micro-controller using fast interrupts while the processor was busy calculating large Fib number. Read reference manual to initialize timer circuit within micro controller to periodically generate FIQ using Pulse Width Modulation. Adjusted pre-scale division and synced the fast interrupts to smoothly strobe LED's receiving a 90% on the project",
       "tags": ["", ""],
       "image": {
         "src": "../../images/gpio.jpg",
