@@ -1,216 +1,328 @@
 {
-  "interests": [
-    {
-      "label": "JavaScript (ES6+)",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "React.js",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Node.js",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Express.js",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "PostgreSQL",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "RESTful API Development",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "HTML/CSS",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "UI/UX Design",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Backend Development",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Frontend Development",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "SQL",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Authentication & Authorization",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Security Best Practices",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Python Automation",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Raspberry Pi Programming",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "IoT Development",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "GPIO Programming",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "CoreXY Mechanism",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Electromagnet Control",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "C Programming",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Lichess API Integration",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Next.js",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "C/C++",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Python",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Java",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "RISC V",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "VHDL",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "ARM Assembly",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Matlab",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Solid Works",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
+"interests": [
+  {
+    "label": "API Testing",
+    "image": {
+      "src": "",
+      "alt": ""
     }
-  ],
+  },
+  {
+    "label": "Test Automation",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "SQL",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "CI/CD Pipelines",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "GitHub Actions",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+    {
+    "label": "Cypress",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+    {
+    "label": "Selenium",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+    {
+    "label": "Playwright",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Pytest",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Vitest",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "TypeScript",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "JavaScript (ES6+)",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Python",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "C/C++",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Node.js",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "React.js",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Next.js",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "REST API Development",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "PostgreSQL",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Docker",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "AWS (RDS, EC2)",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Linux",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Git",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Backend Development",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Automation Frameworks",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Integration Testing",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "End-to-End Testing",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Performance Testing",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Cloud Infrastructure",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Debugging & Troubleshooting",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Authentication & Authorization",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Security Best Practices",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Python Automation",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "IoT Development",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Raspberry Pi Programming",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "GPIO Programming",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "CoreXY Mechanism",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Electromagnet Control",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Lichess API Integration",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "C Programming",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Java",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "RISC V",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "VHDL",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "ARM Assembly",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Matlab",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  {
+    "label": "Solid Works",
+    "image": {
+      "src": "",
+      "alt": ""
+    }
+  }
+],
   "button": {
     "visible": true,
     "label": "+ Load More",
